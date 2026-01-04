@@ -1,4 +1,4 @@
-# Donor – Charity Management App
+# Donr – Charity Management App
 
 Donor is a cross-platform mobile application developed using React Native.  
 The app is designed to help organizations manage charity donations by keeping records of donors and the amounts they contribute.
